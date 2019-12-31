@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+
+
+    <color name="transparent">#00000000</color>
+    <color name="tranprent">#00000000</color>
+    <color name="tranprent_bg">#00000000</color>
+    <color name="tranprent_80">#33000000</color>
+    <color name="tranprent_50">#80001821</color>
+    <color name="tranprent_20">#CC001821</color>
+
+
+
+
+    <color name="black">#000000</color>
+    <color name="white">#FFFFFF</color>
+    <color name="bg">#F5F5F5</color>
+    <color name="gray_dark">#5B5B72</color>
+    <color name="red_gradient_1">#551209</color>
+    <color name="red_gradient_2">#551209</color>
+    <color name="gray">#6E6E86</color>
+    <color name="white_33">#54FFFFFF</color>
+    <color name="orange">#DE8925</color>
+    <color name="fb">#156DF0</color>
+
+
+
+    <color name="brown">#551209</color>
+    <color name="gray2">#5CB2BACE</color>
+    <color name="gray_light">#777786</color>
+    <color name="black_like">#333333</color>
+    <color name="facebook">#3b5998</color>
+    <color name="red_dark">#AC2621</color>
+    <color name="red">#E30808</color><!--Logo Color-->
+    <color name="red_light">#FFB2B9</color>
+    <color name="green">#159B53</color>
+    <color name="blue">#0817E3</color>
+    <color name="circle">#F5E9E9</color>
+    <color name="drawer_name_gray">#39394D</color>
+
+    <color name="pink_light">#EAE2E2</color>
+
+    <color name="menu_item_selected">#ebebeb</color>
+    <color name="edit_line">#a7a7a7</color>
+
+
+    <color name="blue_dark">#002a39</color>
+    <color name="blue_light">#0c516a</color>
+    <color name="Orange">#d9b125</color>
+    <color name="card_gray">#fafafd</color>
+    <color name="image_boarder">#eeeeee</color>
+    <color name="line_color">#b8bbc4</color>
+    <color name="edit_text_line">#c7c7cf</color>
+    <color name="yellow">#c99346</color>
+    <color name="disable_button">#babcc8</color>
+    <color name="light_blue">#a5c6de</color>
+    <color name="teal">#22a8b8</color>
+    <color name="light_orange">#e4d3c2</color>
+
+
+    <!-- <color name="map_allevent_vehicle_button">#143947</color>
+     <color name="sceen_background">#f1f1e9</color>-->
+    <color name="resend_otp">#8b8b8b</color>
+
+    <color name="submenu_select">#e5e4ed</color>
+    <color name="submenu_background">#f0eff8</color>
+    <color name="cong_color">#92b5c1</color>
+
+    <color name="tab_bg_color">#ecedf1</color>
+    <color name="tab_desable_button">#143947</color>
+
+    <color name="error_mssg">#b7bacf</color>
+
+</resources>

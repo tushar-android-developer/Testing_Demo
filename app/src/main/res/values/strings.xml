@@ -1,0 +1,61 @@
+<resources>
+    <string name="app_name">Testing App</string>
+
+    <string name="language_name">English</string>
+
+
+    <!--Login Screen-->
+    <string name="login">Login</string>
+    <string name="email">Email</string>
+    <string name="register">Register</string>
+    <string name="password">Password</string>
+    <string name="password_login">Password*</string>
+    <string name="forgot_pass">Forgot Password</string>
+    <string name="dont_have_account">"Don't have an account? Sign Up now"</string>
+    <string name="submit">Submit</string>
+    <string name="signup">Sign up</string>
+
+
+   <!--Titles-->
+    <string name="notifications">Notifications</string>
+
+
+    <string name="full_name">Full Name</string>
+    <string name="phone_number">Phone Number</string>
+    <string name="country">Country</string>
+    <string name="state">State</string>
+    <string name="city">City</string>
+    <string name="conf_pass">Confirm Password</string>
+    <string name="user_type">User Type</string>
+    <string name="category">Category</string>
+    <string name="already_have_an_account">Already have an account? Sing in</string>
+
+
+    <string name="update">Update</string>
+
+
+    <!--Setting Screen-->
+    <string name="edit_profile">Edit Profile</string>
+    <string name="change_password">Change password</string>
+    <string name="subscribe_plan">Subscribe Plan</string>
+    <string name="terms_condition">Terms Condition</string>
+    <string name="privacy_policy">Privacy Policy</string>
+    <string name="about_us">About Us</string>
+    <string name="share_app">Share App</string>
+    <string name="sign_out">Sign Out</string>
+
+
+    <!--Bottom Bar-->
+    <string name="home">Home</string>
+
+    <string name="current_password">Current Password</string>
+    <string name="new_password">New Password</string>
+    <string name="version">Version 1.0.0.0</string>
+    <string name="terms_conditions">Terms and Conditions</string>
+    <string name="details">Details</string>
+    <string name="media">Media</string>
+    <string name="write_a_message">Write a message...</string>
+    <string name="notification_list_empty">Notification list is empty</string>
+
+
+</resources>
